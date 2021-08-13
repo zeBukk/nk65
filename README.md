@@ -7,7 +7,8 @@ nkro+1k poll rate nk65
 - -----------------------------------
 Converting mycustomqmkconfig.json file to  key.c file 
 
-qmk json2c "PATH NAME HERE\mycustomqmkconfig.json"                            
+qmk json2c "PATH NAME HERE\mycustomqmkconfig.json"    
+
 -example: qmk json2c "C:\Users\User\Desktop\QmkConfigs\mycustomqmkconfig.json"
 
 
