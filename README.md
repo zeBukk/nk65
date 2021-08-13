@@ -1,6 +1,6 @@
 nkro+1k poll rate nk65
 
--2 layers
+-2 layers default keys except the bottom 3
 - fn+ home = nkro on 
 - fn+ pgup = nrko off
 - fn+ pgdn = toggle nrko
