@@ -4,6 +4,9 @@ nkro+1k poll rate nk65
 - fn+ home = nkro on 
 - fn+ pgup = nrko off
 - fn+ pgdn = toggle nrko
+- -----------------------------------
+Converting json file to  key.c file 
+
 
 ### Flash ###
 
