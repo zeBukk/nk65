@@ -15,6 +15,8 @@ qmk json2c "PATH NAME HERE\mycustomqmkconfig.json"
 edit rules.mk 
 NRKO ENABLE = yes
 
+Flash nk65_mykeymap.bin file
+
 
 ### Flash ###
 
