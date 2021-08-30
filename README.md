@@ -26,6 +26,7 @@ Flash nk65_mykeymap.bin file
 - Flash using QMK Toolbox
 - --------------------------------------------------------------------------
 
-![nk65 Layer 1](https://user-images.githubusercontent.com/88870880/131321852-38d2ecdc-a623-48af-b268-fbb4b0fa4acf.PNG)
 ![nk65 Layer 0](https://user-images.githubusercontent.com/88870880/131321854-5c254026-f7b4-454e-b3e2-e3a65013a526.PNG)
+![nk65 Layer 1](https://user-images.githubusercontent.com/88870880/131321852-38d2ecdc-a623-48af-b268-fbb4b0fa4acf.PNG)
+
 
